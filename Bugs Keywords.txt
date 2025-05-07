@@ -1,0 +1,34 @@
+ Database
+ abort, transaction, dump, store, retrieve, sql, leak, bound, find, delete, insert, buffer, external,
+ internal, size, stack, queue, data, database, storage, inconsistency, loss, overwritten, duplicate,
+ missing, update, lock, recover, access, table, commit, abort, synchronize, timeout, reset
+ Enhancement
+ remove, delete, move, clean, refactor, rename, content, rid, unit, base, content, resolve, polish,
+ text, miss, tab, bookmark, drop, manage, typo, improve, enhance, modify, change, add, adapt,
+ refine, port, support, upgrade, migrate, replace, update, delete, image, picture, line, alert
+ Infrastructure
+ environment, configuration, delete, kernel, miss, system, deploy, build, capacity, order,
+ working, duplicate, recognized, respond, switch on, power on, broken, crash, memory, USB,
+ drive, RAM, cache, operating system, OS, unavailable, shut down, reboot, release
+ Logic
+ logic, delete, incorrect, invalid, wrong, calculate, output, error, expected, fail, stack, queue, miss,
+ block, major, result, accuracy, mistake, deviation, terminate, invalid, loop, decision, functionality,
+ algorithm, crash, input, data, condition, branch, random, timeout, reset, null, cancel, exception
+ Networking
+ network, client, server, url, html, http, https, packet, route, acknowledgement, delete,
+ interface, miss, card, node, invalid, noise, switch, signal, peer, LAN, port, MAC,
+ address, duplicate, layer, protocol, session, synchronous, asynchronous, carrier,
+ ethernet, api, connect, bandwidth, DNS, address, jitter, firewall, traffic, entry, exit
+ Performance
+ response, latency, delay, performance, time, miss, slow, cpu, lag, long, invalid,
+ hang, reduce, time, fast, vary, execution, run, time-out, time out, lazy, render, buffering,
+ Shuttering, broken, block, stop, intermittent, freeze, jitter, throughput, vary
+ Security
+ encryption, secure, corrupt, privacy, password, miss, delete, access, blocker, audit,
+ sandbox, bypass, vulnerable, safe, intrude, password, password-manager, protect, authenticate,
+ compromise, access, stolen, denial, prevent, broken, firewall, key, public, private, threat
+ Usability
+ window, menu, zoom, use, click, cursor, keyboard, select, mouse, feature, hitting, entering, bar,
+ button, icon, engine, scroll, color, image, look, feel, brightness, sound, resolution, drop-down,
+ navigation, contrast, frozen, readability, legibility, inconsistency, disable, enable,
+ invisible, invalid, miss, popup, form, check box, delete, combo box, radio button
