@@ -50,21 +50,21 @@ A transformer-based deep learning model that automatically classifies software b
 
 ## 📸 Screenshots
 
-Streamlit Web Interface
-![image](https://github.com/user-attachments/assets/c40fc1d3-b7d5-4a87-a1c5-9107b5d64d0d)
+### 🖥️ Streamlit Web Interface
+![Streamlit Interface](https://github.com/user-attachments/assets/c40fc1d3-b7d5-4a87-a1c5-9107b5d64d0d)
 
-Uploading and Pre-processing dataset
-![image](https://github.com/user-attachments/assets/1e1b5a59-8643-41ff-afbc-8b1a2ba067cc)
+### 📂 Uploading and Selecting Dataset
+![Uploading Dataset](https://github.com/user-attachments/assets/1e1b5a59-8643-41ff-afbc-8b1a2ba067cc)
 
-Bug Classification into 8 distinct Categories
-![image](https://github.com/user-attachments/assets/5e7766b0-75ac-4f34-9d39-117564cbc59d)
+### 🐛 Bug Classification into 8 Categories
+![Bug Classification](https://github.com/user-attachments/assets/5e7766b0-75ac-4f34-9d39-117564cbc59d)
 
-Confusion matrix
-![image](https://github.com/user-attachments/assets/6bb838ad-0790-441a-b954-a0e57374004d)
+### 📉 Confusion Matrix
+![Confusion Matrix](https://github.com/user-attachments/assets/6bb838ad-0790-441a-b954-a0e57374004d)
 
-Performance metrics
-![image](https://github.com/user-attachments/assets/81812f2b-8202-4a3f-ba56-4eb79a2e3144)
- 
+### 📊 Performance Metrics
+![Performance Metrics](https://github.com/user-attachments/assets/81812f2b-8202-4a3f-ba56-4eb79a2e3144)
+
 ---
 
 ## 📈 Results
